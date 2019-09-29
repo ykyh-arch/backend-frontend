@@ -1,0 +1,5 @@
+2019-09-29 09:32:35.505 intelligent_light [http-nio-9527-exec-9] ERROR c.u.l.c.authentication.JWTFilter - token已经过期
+2019-09-29 09:32:35.507 intelligent_light [http-nio-9527-exec-9] ERROR c.u.l.c.authentication.JWTFilter - token已经过期
+2019-09-29 09:37:38.621 intelligent_light [http-nio-9527-exec-6] ERROR c.u.l.c.h.GlobalExceptionHandler - 系统错误：用户名或密码错误
+2019-09-29 10:38:08.432 intelligent_light [http-nio-9527-exec-7] ERROR c.u.l.c.authentication.JWTFilter - token已经过期
+2019-09-29 10:38:08.434 intelligent_light [http-nio-9527-exec-7] ERROR c.u.l.c.authentication.JWTFilter - token已经过期
